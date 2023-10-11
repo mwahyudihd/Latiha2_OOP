@@ -1,0 +1,14 @@
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\bin\Debug\net7.0\Latihan2.exe
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\bin\Debug\net7.0\Latihan2.deps.json
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\bin\Debug\net7.0\Latihan2.runtimeconfig.json
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\bin\Debug\net7.0\Latihan2.dll
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\bin\Debug\net7.0\Latihan2.pdb
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\obj\Debug\net7.0\Latihan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\obj\Debug\net7.0\Latihan2.AssemblyInfoInputs.cache
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\obj\Debug\net7.0\Latihan2.AssemblyInfo.cs
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\obj\Debug\net7.0\Latihan2.csproj.CoreCompileInputs.cache
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\obj\Debug\net7.0\Latihan2.dll
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\obj\Debug\net7.0\refint\Latihan2.dll
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\obj\Debug\net7.0\Latihan2.pdb
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\obj\Debug\net7.0\Latihan2.genruntimeconfig.cache
+C:\save_data\Dokumen\C#_project\Latihan2\Latihan2\obj\Debug\net7.0\ref\Latihan2.dll
